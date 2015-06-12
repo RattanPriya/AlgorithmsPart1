@@ -3,7 +3,9 @@ Practising the Algorithms Part 1 by Dr. Rob Sedgewick
 
 //Follow Up: Can you return second and nth lowest number in a number? 
 	//Given an array, and n, return nth lowest number?
+	//Can you code this ?
 //Follow Up 2: What if the array is infinite stream of numbers?
+	//Google with definitely ask you about scaling for infinite stream :)
 //Follow Up: What if the array is so big that it does not fit in memory, how will you ready it?
 //Edge Case: [1,a,2,c] => Ask the interviewer what is expected?
 //What is the complexity of this solution?
